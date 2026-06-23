@@ -9,7 +9,7 @@
 
 A reproducible statistical analysis of a synthetic **Phase III clinical trial** dataset using **R** to evaluate antihypertensive treatment efficacy through exploratory data analysis, statistical testing, and regression modelling.
 
-## Full Report
+### Full Report
 
 [Clinical Trial Analysis of Hypertension Treatments](https://reinasdatastudio.github.io/clinical-trial-hypertension-analysis/clinical-trial-hypertension-analysis.html)
 
