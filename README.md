@@ -1,9 +1,11 @@
+# Clinical Trial Analysis of Hypertension Treatments
+
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-blue)
+![Healthcare](https://img.shields.io/badge/Healthcare-009688)
 ![Quarto](https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
-
-
-# Clinical Trial Analysis of Hypertension Treatments
+![Reproducible Workflow](https://img.shields.io/badge/Reproducible-Workflow-success)
 
 A reproducible statistical analysis of a synthetic **Phase III clinical trial** dataset using **R** to evaluate antihypertensive treatment efficacy through exploratory data analysis, statistical testing, and regression modelling.
 
@@ -105,6 +107,8 @@ https://reinasdatastudio.github.io/webpage/
 **戒能 伶奈**
 
 元薬剤師｜データサイエンティスト
+
+
 
 **Website**
 
