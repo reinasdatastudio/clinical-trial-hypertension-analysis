@@ -10,6 +10,11 @@ format:
     toc: true
     toc-location: right
     include-after-body: footer.html
+
+execute:
+  echo: true
+  warning: false
+  message: false
 ---
 
 This dataset was taken from: <https://www.kaggle.com/datasets/isabelladil/phase-iii-clinical-trial-dataset/data> It is a synthetic data and does not contain any data of individuals in real life.
