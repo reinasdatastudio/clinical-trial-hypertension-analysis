@@ -66,14 +66,12 @@ https://reinasdatastudio.github.io/webpage/
 
 # 降圧薬の有効性評価を目的とした臨床試験データ解析
 
-## レポート
-[Clinical Trial Analysis of Hypertension Treatments](https://reinasdatastudio.github.io/clinical-trial-hypertension-analysis/clinical-trial-hypertension-analysis.html)
-
-## 概要
-
 本プロジェクトでは、第Ⅲ相臨床試験を想定した模擬データを用いて、降圧薬の有効性を統計学的に評価しました。
 
 データ前処理、探索的データ解析（EDA）、統計学的検定、ロジスティック回帰分析、可視化までを、**R**と**Quarto**を用いて再現可能なワークフローとして実装しています。
+
+### レポート
+[Clinical Trial Analysis of Hypertension Treatments](https://reinasdatastudio.github.io/clinical-trial-hypertension-analysis/clinical-trial-hypertension-analysis.html)
 
 ## 主な内容
 
